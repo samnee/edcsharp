@@ -1,0 +1,7 @@
+E:\Library\github.com\samnee\edcsharp\S002\ConsoleApp1\SocketServer\bin\Debug\SocketServer.exe.config
+E:\Library\github.com\samnee\edcsharp\S002\ConsoleApp1\SocketServer\bin\Debug\SocketServer.exe
+E:\Library\github.com\samnee\edcsharp\S002\ConsoleApp1\SocketServer\bin\Debug\SocketServer.pdb
+E:\Library\github.com\samnee\edcsharp\S002\ConsoleApp1\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+E:\Library\github.com\samnee\edcsharp\S002\ConsoleApp1\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+E:\Library\github.com\samnee\edcsharp\S002\ConsoleApp1\SocketServer\obj\Debug\SocketServer.exe
+E:\Library\github.com\samnee\edcsharp\S002\ConsoleApp1\SocketServer\obj\Debug\SocketServer.pdb

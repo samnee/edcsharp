@@ -1,0 +1,6 @@
+E:\Library\github.com\samnee\edcsharp\S002\ConsoleApp1\SocketClient\bin\Debug\SocketClient.exe.config
+E:\Library\github.com\samnee\edcsharp\S002\ConsoleApp1\SocketClient\bin\Debug\SocketClient.exe
+E:\Library\github.com\samnee\edcsharp\S002\ConsoleApp1\SocketClient\bin\Debug\SocketClient.pdb
+E:\Library\github.com\samnee\edcsharp\S002\ConsoleApp1\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+E:\Library\github.com\samnee\edcsharp\S002\ConsoleApp1\SocketClient\obj\Debug\SocketClient.exe
+E:\Library\github.com\samnee\edcsharp\S002\ConsoleApp1\SocketClient\obj\Debug\SocketClient.pdb
