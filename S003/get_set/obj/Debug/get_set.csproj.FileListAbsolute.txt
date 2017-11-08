@@ -1,0 +1,7 @@
+E:\Library\github.com\samnee\edcsharp\S003\get_set\bin\Debug\get_set.exe.config
+E:\Library\github.com\samnee\edcsharp\S003\get_set\bin\Debug\get_set.exe
+E:\Library\github.com\samnee\edcsharp\S003\get_set\bin\Debug\get_set.pdb
+E:\Library\github.com\samnee\edcsharp\S003\get_set\obj\Debug\get_set.csprojResolveAssemblyReference.cache
+E:\Library\github.com\samnee\edcsharp\S003\get_set\obj\Debug\get_set.csproj.CoreCompileInputs.cache
+E:\Library\github.com\samnee\edcsharp\S003\get_set\obj\Debug\get_set.exe
+E:\Library\github.com\samnee\edcsharp\S003\get_set\obj\Debug\get_set.pdb

@@ -1,6 +1,11 @@
 # edcsharp
 Every day, C# practice.
 
+# S003 get_set
+attribute <br>
+REF: MP1.3.39 <br>
+TIME: 20171108_3_21:29:15
+
 # S002 Socket
 Socket console server and client communication <br>
 REF: YDN17064 <br>
