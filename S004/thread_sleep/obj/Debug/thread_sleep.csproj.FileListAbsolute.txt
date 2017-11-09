@@ -1,0 +1,7 @@
+E:\Library\github.com\samnee\edcsharp\S004\thread_sleep\bin\Debug\thread_sleep.exe.config
+E:\Library\github.com\samnee\edcsharp\S004\thread_sleep\bin\Debug\thread_sleep.exe
+E:\Library\github.com\samnee\edcsharp\S004\thread_sleep\bin\Debug\thread_sleep.pdb
+E:\Library\github.com\samnee\edcsharp\S004\thread_sleep\obj\Debug\thread_sleep.csprojResolveAssemblyReference.cache
+E:\Library\github.com\samnee\edcsharp\S004\thread_sleep\obj\Debug\thread_sleep.csproj.CoreCompileInputs.cache
+E:\Library\github.com\samnee\edcsharp\S004\thread_sleep\obj\Debug\thread_sleep.exe
+E:\Library\github.com\samnee\edcsharp\S004\thread_sleep\obj\Debug\thread_sleep.pdb

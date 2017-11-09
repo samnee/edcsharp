@@ -1,6 +1,11 @@
 # edcsharp
 Every day, C# practice.
 
+# S004 thread_sleep
+use sleep to hang the thread for sometime.
+REF: YDN17065 <br>
+TIME: 20171109_4
+
 # S003 get_set
 attribute <br>
 REF: MP1.3.39 <br>
