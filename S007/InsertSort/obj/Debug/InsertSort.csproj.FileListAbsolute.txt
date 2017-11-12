@@ -1,0 +1,6 @@
+E:\Library\github.com\samnee\edcsharp\S007\InsertSort\obj\Debug\InsertSort.csproj.CoreCompileInputs.cache
+E:\Library\github.com\samnee\edcsharp\S007\InsertSort\bin\Debug\InsertSort.exe.config
+E:\Library\github.com\samnee\edcsharp\S007\InsertSort\bin\Debug\InsertSort.exe
+E:\Library\github.com\samnee\edcsharp\S007\InsertSort\bin\Debug\InsertSort.pdb
+E:\Library\github.com\samnee\edcsharp\S007\InsertSort\obj\Debug\InsertSort.exe
+E:\Library\github.com\samnee\edcsharp\S007\InsertSort\obj\Debug\InsertSort.pdb
