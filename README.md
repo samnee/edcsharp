@@ -1,6 +1,11 @@
 # edcsharp
 Every day, C# practice.
 
+# S007 InsertSort
+Sort numbers by inserting method(insertion algorithm) <br>
+REF: YDN17067 <br>
+TIME: 20171112_7
+
 # S006 ClassLibrary
 implement ClassLibray and call it to program<br>
 REF: YDN17066 <br>
