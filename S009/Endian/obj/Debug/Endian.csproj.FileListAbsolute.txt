@@ -1,0 +1,7 @@
+E:\Library\github.com\samnee\edcsharp\S009\Endian\bin\Debug\Endian.exe.config
+E:\Library\github.com\samnee\edcsharp\S009\Endian\bin\Debug\Endian.exe
+E:\Library\github.com\samnee\edcsharp\S009\Endian\bin\Debug\Endian.pdb
+E:\Library\github.com\samnee\edcsharp\S009\Endian\obj\Debug\Endian.csprojResolveAssemblyReference.cache
+E:\Library\github.com\samnee\edcsharp\S009\Endian\obj\Debug\Endian.csproj.CoreCompileInputs.cache
+E:\Library\github.com\samnee\edcsharp\S009\Endian\obj\Debug\Endian.exe
+E:\Library\github.com\samnee\edcsharp\S009\Endian\obj\Debug\Endian.pdb
