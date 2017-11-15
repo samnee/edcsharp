@@ -1,6 +1,11 @@
 # edcsharp
 Every day, C# practice.
 
+# S009 endian
+big endian and little endian <br>
+REF: YDN17069 <br>
+TIME: 20171115_3
+
 # S008 ThreadPool
 thread pool <br>
 REF: YDN17068 <br>
