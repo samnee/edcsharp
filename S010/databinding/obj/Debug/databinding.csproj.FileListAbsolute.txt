@@ -1,0 +1,10 @@
+E:\Library\github.com\samnee\edcsharp\S010\databinding\bin\Debug\databinding.exe.config
+E:\Library\github.com\samnee\edcsharp\S010\databinding\bin\Debug\databinding.exe
+E:\Library\github.com\samnee\edcsharp\S010\databinding\bin\Debug\databinding.pdb
+E:\Library\github.com\samnee\edcsharp\S010\databinding\obj\Debug\databinding.csprojResolveAssemblyReference.cache
+E:\Library\github.com\samnee\edcsharp\S010\databinding\obj\Debug\databinding.Form1.resources
+E:\Library\github.com\samnee\edcsharp\S010\databinding\obj\Debug\databinding.Properties.Resources.resources
+E:\Library\github.com\samnee\edcsharp\S010\databinding\obj\Debug\databinding.csproj.GenerateResource.Cache
+E:\Library\github.com\samnee\edcsharp\S010\databinding\obj\Debug\databinding.csproj.CoreCompileInputs.cache
+E:\Library\github.com\samnee\edcsharp\S010\databinding\obj\Debug\databinding.exe
+E:\Library\github.com\samnee\edcsharp\S010\databinding\obj\Debug\databinding.pdb
