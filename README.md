@@ -1,6 +1,11 @@
 # edcsharp
 Every day, C# practice.
 
+# S009 databinding
+bind data to textbox <br>
+REF: YDN17070 <br>
+TIME: 20171117_5
+
 # S009 endian
 big endian and little endian <br>
 REF: YDN17069 <br>
